@@ -1,0 +1,24 @@
+= D2L Connector Release Notes
+
+October 2022
+
+The D2L connector allows for connectivity to D2L Brightspace Platform and can be used in both on-premises and CloudHub environments.
+
+== Version 1.0.0 - 2022-10
+This release of D2L Connector is compatible with Mule 4, and it is not compatible with Mule 3 versions.
+
+== Version 1.0.0 - Compatibility
+The D2L Connector is compatible with these software versions:
+
+[%header%autowidth.spread]
+|===
+|Software |Version
+|Anypoint Studio |7.4.x
+|Mule |4.1.x and later
+|JDK |1.8.x and later
+ D2L Engine |Compatible with D2L as of.
+|===
+
+
+
+
