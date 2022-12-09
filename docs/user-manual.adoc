@@ -4,7 +4,7 @@ MuleSoft Certified
 
 == About D2L
 
-
+The D2L (Desire-To-Learn) is a learning platform for personalise learning, increase engagement, and help learners achieve more than they imagined possible. D2L offers flexible and robust learning solutions for every stage of life, from the earliest days of school to higher education and the working world. A connected application in D2L can read, create and update data on the profile of respective user. It can also read/update details of other users if they have proper rights.
 
 == About D2L Connector
 
